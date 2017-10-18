@@ -1,0 +1,2 @@
+# attendance-monitor
+sample project
